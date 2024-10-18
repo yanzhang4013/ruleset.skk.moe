@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-15T08:43:09.073Z
+# Last Updated: 2024-10-18T09:10:14.055Z
 # Size: 37
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -39,10 +39,10 @@ DOMAIN-REGEX,^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\.fc2\.com$
 DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.2nt\.com$
 DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.fc2\.com$
 DOMAIN-REGEX,^rr[a-zA-Z0-9-_.]---[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.ouo\.si$
-DOMAIN-REGEX,^ffzy-online[a-zA-Z0-9-_.]\.com$
-DOMAIN-REGEX,^ffzy-play[a-zA-Z0-9-_.]\.com$
-DOMAIN-REGEX,^kuaikan-cdn[a-zA-Z0-9-_.]\.com$
-DOMAIN-REGEX,^lz-cdn[a-zA-Z0-9-_.]\.com$
-DOMAIN-REGEX,^lz-cdn[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.com$
-DOMAIN-REGEX,^fsvod[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.ffzy-online[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.ffzy-play[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.kuaikan-cdn[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.lz-cdn[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.lz-cdn[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.fsvod[a-zA-Z0-9-_.]\.com$
 ################## EOF ##################

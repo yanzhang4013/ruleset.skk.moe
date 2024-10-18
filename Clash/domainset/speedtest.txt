@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-17T08:23:32.838Z
-# Size: 436
+# Last Updated: 2024-10-18T09:10:13.491Z
+# Size: 439
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -151,6 +151,7 @@
 +.speedtest.cdmsfirst.com
 +.mensura.cdn-apple.com
 +.mns.i-systems.com
+speedtest.jsqiuying.com
 speedtest.linknetbv.com
 +.speedtest.surfshark.com
 +.speed-test.westelcom.com
@@ -355,6 +356,7 @@ st.mow.gin.ru
 +.m1speedtest1.m1net.com.sg
 +.speedtest.singnet.com.sg
 +.bassoon-sg-1.violin.co.th
+ookla.sh.com.tr
 +.speedtest.comnet.com.tr
 +.speedtest.fixnet.com.tr
 +.afyonspeedtest.fixnet.com.tr
@@ -412,6 +414,7 @@ hizistanbul1.durunet.com.tr
 +.speedtest.nyc.rr.com
 +.syrny-speedtest-02.nyroc.rr.com
 +.lsanca-speedtest-02.socal.rr.com
+speedtest.ty7.macarne.com
 +.speedtest.hk.chinamobile.com
 +.speedtestbb.hk.chinamobile.com
 +.speedtest.fra.ewgmedianet.com
